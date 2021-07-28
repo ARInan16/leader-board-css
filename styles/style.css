@@ -108,6 +108,9 @@ hr{
     .players,.blog{
         flex-direction: column;
     }
+    .course{
+        margin-bottom: 25px;
+    }
 }
 @media only screen and (min-width:689px) and (max-width:922px) {
     .container{
